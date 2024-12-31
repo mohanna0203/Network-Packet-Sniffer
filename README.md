@@ -35,7 +35,7 @@ Designed for TCP, UDP and ICMP packet filtering, which can be extended to other 
 - Threads:
   Threads are employed to manage concurrency and ensure the efficient operation of the packet sniffer tool. Thread management helped in handling tasks concurrently for packet capture, processing, database storage and UI responsiveness without blocking or freezing.
 
-![image](https://github.com/user-attachments/assets/5ca6d6b8-56ba-43bf-9a7d-c6ddc4e3cadb)
+![image](https://github.com/user-attachments/assets/33e2377c-e16e-4324-adcb-0344361cf8b0)
 
 
   
